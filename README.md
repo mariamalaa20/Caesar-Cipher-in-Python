@@ -15,8 +15,8 @@ A simple Python implementation of the Caesar Cipher for encoding and decoding me
 ## 🛡️ Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/caesar-cipher.git
-cd caesar-cipher
+git clone https://github.com/yourusername/main.git
+cd main
 
 # Install dependencies
 pip install art
@@ -25,14 +25,14 @@ pip install art
 ## 🌐 Project Structure
 ```
 caesar-cipher/
-│── caesar_cipher.py   # Main script
+│── main.py   # Main script
 │── README.md          # Project documentation
 ```
 
 ## 🔎 Usage
 Run the script and follow the prompts:
 ```bash
-python caesar_cipher.py
+python main.py
 ```
 You'll be asked whether you want to encode or decode, input your message, and provide a shift number.
 
@@ -52,11 +52,4 @@ Here is the encoded result: khoor
 - Implement GUI-based encryption and decryption.
 - Improve security using more complex ciphers.
 
-## ⚖️ License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Contact
-For any questions or contributions, feel free to reach out:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [yourusername](https://github.com/yourusername)
 
