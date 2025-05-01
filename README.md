@@ -51,5 +51,3 @@ Here is the encoded result: khoor
 - Add support for uppercase letters.
 - Implement GUI-based encryption and decryption.
 - Improve security using more complex ciphers.
-
-
